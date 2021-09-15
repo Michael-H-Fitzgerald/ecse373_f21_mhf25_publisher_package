@@ -1,0 +1,10 @@
+src/publisher_code.bak
+
+# The hash (#) is the comment character
+
+# Typical backup file patterns 
+
+*~   #Anythig that ends in tilde.
+\#*# #Anything that begins and ends with a hash
+*.bak #Anything that ends with teh extension ".bak"
+
